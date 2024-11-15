@@ -31,8 +31,7 @@ In the fast-paced world of trading, staying ahead requires analyzing vast amount
 
 ### 1. Install Required Libraries
 Make sure you have Python installed. Then, install the required dependencies:
-```bash
-pip install requests boto3 pymongo
+    ```bash pip install requests boto3 pymongo
 
 ### 2. Set Up the Example Lambda Function
 
