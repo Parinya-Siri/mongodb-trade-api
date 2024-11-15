@@ -44,9 +44,7 @@ Make sure you have Python installed. Then, install the required dependencies:
      - `MONGO_CONNECTION_STRING`: Your MongoDB Atlas connection string.
      - `NEWS_API_KEY`: Your News API key.
      - `TARGET_KEYWORD`: The keyword for the news search (e.g., "Tesla").
-3. Zip the contents of the folder:
-   ```bash
-   zip -r lambda-deployment.zip
+3. Zip the contents of the folder
 4. Upload the .zip file to an S3 bucket in AWS.
 
 ### 3. Deploy the Lambda Function
