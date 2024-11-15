@@ -31,8 +31,8 @@ In the fast-paced world of trading, staying ahead requires analyzing vast amount
 
 ### 1. Install Required Libraries
 Make sure you have Python installed. Then, install the required dependencies:
-
-pip install requests boto3 pymongo
+    ```bash
+    pip install requests boto3 pymongo
 
 ### 2. Set Up the Example Lambda Function
 
@@ -46,7 +46,7 @@ pip install requests boto3 pymongo
      - `TARGET_KEYWORD`: The keyword for the news search (e.g., "Tesla").
 3. Zip the contents of the folder:
    ```bash
-   zip -r lambda-deployment.zip .
+   zip -r lambda-deployment.zip
 4. Upload the .zip file to an S3 bucket in AWS.
 
 ### 3. Deploy the Lambda Function
