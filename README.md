@@ -1,6 +1,6 @@
 # SentimentStream
 
-**SentimentStream** is a robust, real-time news sentiment analysis platform built for the **MongoDB AI Hackathon**. It leverages AWS services and MongoDB Atlas to transform unstructured news data into structured, actionable insights for trading and decision-making. This project showcases an end-to-end pipeline from data ingestion to visualization on a hosted website.
+**SentimentStream** is a robust, real-time news sentiment analysis platform built for the **MongoDB AI Hackathon**. It leverages AWS services and MongoDB Atlas to transform unstructured news data into structured, actionable insights for trading and decision-making. This project showcases an end-to-end pipeline from data ingestion to visualization on a hosted website. (**[SentimentStream Demo](https://sentimentstream-demo.s3.us-east-1.amazonaws.com/index.html)**.)
 
 ---
 
